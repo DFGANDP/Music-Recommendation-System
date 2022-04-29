@@ -29,11 +29,12 @@ https://github.com/DFGANDP/Music-Classification-Dataset-maker
 
 # Classification embeddings
 
-1. Train
+### Train
+
 ![train_embeddings](images/train_embeddings.png)
 
-2. Test
+### Test
 ![test_embeddings](images/test_embeddings.png)
 
-3. Confusion Matrix
+### Confusion Matrix
 ![Matrix](images/confusion_matrix.png)
