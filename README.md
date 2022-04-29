@@ -1,6 +1,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/DFGANDP/Music-recommendation-system)  ![GitHub](https://img.shields.io/github/license/DFGANDP/Music-recommendation-system)
 
-![Banner](./Banner.png)
+![Banner](images/Banner.png)
 
 # Description
 
@@ -25,3 +25,15 @@ https://github.com/DFGANDP/Music-Classification-Dataset-maker
 * Implement Online Mining
 * Triplet Loss
 * Optimize Dataflow (if possible)
+* recommender engine
+
+# Classification embeddings
+
+1. Train
+![train_embeddings](images/train_embeddings.png)
+
+2. Test
+![test_embeddings](images/test_embeddings.png)
+
+3. Confusion Matrix
+![Matrix](images/confusion_matrix.png)
