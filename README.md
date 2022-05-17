@@ -38,3 +38,7 @@ https://github.com/DFGANDP/Music-Classification-Dataset-maker
 
 ### Confusion Matrix
 ![Matrix](images/confusion_matrix.png)
+
+# Siamese embeddings
+
+![test_embeddings](images/test_siamese.png)
