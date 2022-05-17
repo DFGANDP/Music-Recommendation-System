@@ -6,6 +6,10 @@
 
 Music recommendation system using Pytorch Triplet loss and your own dataset
 
+Classification     ✓
+Siamese            ✓
+Recommender Engine ✓
+
 ## How to make Dataset
 ```bash
 Check my DatasetMaker !
@@ -24,8 +28,6 @@ https://github.com/DFGANDP/Music-Classification-Dataset-maker
 ### TODO:
 * Implement Online Mining
 * Triplet Loss
-* Optimize Dataflow (if possible)
-* recommender engine
 
 # Classification embeddings
 
